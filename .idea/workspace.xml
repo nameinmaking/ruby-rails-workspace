@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c70dce92-cbee-4ea3-b4b4-268072222390" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hello_app/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb" beforeDir="false" afterPath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/GitHub.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.25520197">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb">
+            <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="546">
-                  <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+                <state relative-caret-position="231">
+                  <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -28,11 +31,11 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/notes/GitHub.md">
+            <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="525">
-                    <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+                  <first_editor relative-caret-position="709">
+                    <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -59,7 +62,10 @@
         <option value="$PROJECT_DIR$/hello_app/Gemfile" />
         <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/FlowOfControl.rb" />
         <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/2functions_and_methods.rb" />
         <option value="$PROJECT_DIR$/notes/GitHub.md" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb" />
       </list>
     </option>
   </component>
@@ -89,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,15 +118,20 @@
           <select />
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.settings.patched" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.flow_of_control">
+  <component name="RunManager" selected="Ruby.blocks">
     <configuration name="Development: hello_app" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="hello_app" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
@@ -324,7 +336,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="flow_of_control" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="1flow_of_control" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-rails-workspace" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro" />
@@ -338,13 +350,51 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2functions_and_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-rails-workspace" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/2functions_and_methods.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blocks" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-rails-workspace" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/blocks.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.flow_of_control" />
+        <item itemvalue="Ruby.blocks" />
+        <item itemvalue="Ruby.2functions_and_methods" />
+        <item itemvalue="Ruby.1flow_of_control" />
       </list>
     </recent_temporary>
   </component>
@@ -363,20 +413,21 @@
       <workItem from="1554914594402" duration="583000" />
       <workItem from="1555688130250" duration="82000" />
       <workItem from="1555688230944" duration="2388000" />
+      <workItem from="1555942439228" duration="751000" />
+      <workItem from="1555954129139" duration="4689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3113000" />
+    <option name="totallyTimeSpent" value="8553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-1" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2264382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14198287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295711" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31982476" />
@@ -387,8 +438,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32919955" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32858709" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295711" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -399,7 +451,9 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ruby_rails_workspace@flow_of_control.rcov" NAME="flow_of_control Coverage Results" MODIFIED="1555696355428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@blocks.rcov" NAME="blocks Coverage Results" MODIFIED="1555959923599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@2functions_and_methods.rcov" NAME="2functions_and_methods Coverage Results" MODIFIED="1555956120581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@flow_of_control.rcov" NAME="flow_of_control Coverage Results" MODIFIED="1555955469317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello_app/Gemfile">
@@ -409,18 +463,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb">
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/GitHub.md">
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/2functions_and_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <first_editor relative-caret-position="709">
+            <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
