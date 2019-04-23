@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c70dce92-cbee-4ea3-b4b4-268072222390" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ruby-rails-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby-rails-workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb" beforeDir="false" afterPath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/GitHub.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/3blocks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +14,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.25520197">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/4reading_and_writing_from_to_files.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+                <state relative-caret-position="256">
+                  <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/module2_lesson1_formative.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="126">
+                  <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
@@ -30,16 +39,18 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="709">
-                    <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
-                  </first_editor>
-                  <second_editor />
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/solution/module2_lesson1_formative.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="294">
+                  <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/.rspec">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -64,8 +75,12 @@
         <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/flow_of_control.rb" />
         <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/2functions_and_methods.rb" />
         <option value="$PROJECT_DIR$/notes/GitHub.md" />
-        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" />
         <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/test.txt" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/4reading_from_files.rb" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/4reading_and_writing_from_to_files.rb" />
+        <option value="$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md" />
+        <option value="$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/solution/module2_lesson1_formative.rb" />
       </list>
     </option>
   </component>
@@ -82,10 +97,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1745" />
-    <option name="y" value="131" />
+    <option name="x" value="456" />
+    <option name="y" value="103" />
     <option name="width" value="1390" />
-    <option name="height" value="831" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -95,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,11 +130,48 @@
               <item name="coursera" type="462c0819:PsiDirectoryNode" />
               <item name="1ruby-on-rails-intro" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ruby-rails-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-rails-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby-rails-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-rails-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson01-Assignment01-Case-Statement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby-rails-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-rails-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson01-Assignment01-Case-Statement" type="462c0819:PsiDirectoryNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby-rails-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-rails-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson01-Assignment01-Case-Statement" type="462c0819:PsiDirectoryNode" />
+              <item name="student-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby-rails-workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-rails-workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson01-Assignment01-Case-Statement" type="462c0819:PsiDirectoryNode" />
+              <item name="student-start" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,6 +180,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.settings.patched" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -145,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.blocks">
+  <component name="RunManager" selected="Ruby.module2_lesson1_formative">
     <configuration name="Development: hello_app" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="hello_app" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
@@ -336,24 +390,6 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="1flow_of_control" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="ruby-rails-workspace" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2functions_and_methods" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-rails-workspace" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -372,7 +408,7 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="blocks" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="3blocks" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ruby-rails-workspace" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro" />
@@ -386,15 +422,71 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/blocks.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/3blocks.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4reading_and_writing_from_to_files" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-rails-workspace" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/1ruby-on-rails-intro/4reading_and_writing_from_to_files.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module2_lesson1_formative (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-rails-workspace" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/module2_lesson1_formative.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module2_lesson1_formative" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-rails-workspace" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/solution" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/solution/module2_lesson1_formative.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.blocks" />
+        <item itemvalue="Ruby.module2_lesson1_formative" />
+        <item itemvalue="Ruby.module2_lesson1_formative (1)" />
+        <item itemvalue="Ruby.4reading_and_writing_from_to_files" />
+        <item itemvalue="Ruby.3blocks" />
         <item itemvalue="Ruby.2functions_and_methods" />
-        <item itemvalue="Ruby.1flow_of_control" />
       </list>
     </recent_temporary>
   </component>
@@ -415,22 +507,22 @@
       <workItem from="1555688230944" duration="2388000" />
       <workItem from="1555942439228" duration="751000" />
       <workItem from="1555954129139" duration="4689000" />
+      <workItem from="1555984059874" duration="3680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8553000" />
+    <option name="totallyTimeSpent" value="12233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-1" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14198287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20384204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31982476" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31935483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -446,27 +538,45 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20384204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32903227" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31935483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32858709" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295711" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ruby_rails_workspace@blocks.rcov" NAME="blocks Coverage Results" MODIFIED="1555959923599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@module2_lesson1_formative.rcov" NAME="module2_lesson1_formative Coverage Results" MODIFIED="1555987894485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/solution" MODULE_NAME="ruby-rails-workspace" />
     <SUITE FILE_PATH="coverage/ruby_rails_workspace@2functions_and_methods.rcov" NAME="2functions_and_methods Coverage Results" MODIFIED="1555956120581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
     <SUITE FILE_PATH="coverage/ruby_rails_workspace@flow_of_control.rcov" NAME="flow_of_control Coverage Results" MODIFIED="1555955469317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@blocks.rcov" NAME="blocks Coverage Results" MODIFIED="1555959923599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@4reading_from_files.rcov" NAME="4reading_and_writing_from_to_files Coverage Results" MODIFIED="1555985810387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/1ruby-on-rails-intro" MODULE_NAME="ruby-rails-workspace" />
+    <SUITE FILE_PATH="coverage/ruby_rails_workspace@module2_lesson1_formative__1_.rcov" NAME="module2_lesson1_formative (1) Coverage Results" MODIFIED="1555987890085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start" MODULE_NAME="ruby-rails-workspace" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello_app/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1138">
           <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -477,22 +587,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/blocks.rb">
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/3blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs26/kernel.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6812">
+          <caret line="3002" column="8" selection-start-line="3002" selection-start-column="8" selection-end-line="3002" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/test1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/4reading_and_writing_from_to_files.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/1flow_of_control.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coursera/1ruby-on-rails-intro/notes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="709">
-            <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+          <first_editor relative-caret-position="2310">
+            <caret line="110" column="31" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/module2_lesson1_formative.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/solution/module2_lesson1_formative.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/spec/lesson1_spec.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/Assignments/Lesson01-Assignment01-Case-Statement/student-start/.rspec">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

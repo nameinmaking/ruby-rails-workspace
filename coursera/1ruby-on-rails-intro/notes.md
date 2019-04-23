@@ -89,3 +89,49 @@ end
   **Convention**
   * User {} when content is a single line.
   * Use do and end when block content spans multiple lines. 
+  
+  ___
+  ##Reading and Writing to files
+  Files can be read using the File.foreach('file_name') method, and store the content in a block using `|line|`.
+  * To print the content of the file use puts method.
+  * To print the internal representation of the content use p.
+  * To chop off the newline character from the line, use `p line.chomp`
+  * To split the content of the line into words use `p line.split`
+  
+  ####When files don't exist
+  **Method 1: Using exist? method**
+  ```
+  if File.exist? 'test.txt'
+    File.foreach('test.txt') do |line|
+      puts line.chomp
+    end
+  end
+  ```
+  
+  **Method 2: Using Exception Handling (begin...rescue)**
+  ```
+  begin
+    File.foreach('do_not_exist.txt') do |line|
+      puts line.chomp
+    end
+  rescue Exception => e
+    puts e.message
+    puts "Let's pretend this didn't happen..."
+  end
+  ```
+  
+  ####Writing to the file(s)
+  The file is **automatically closed** after the block executes.
+  ```
+  File.open("test1.txt","w") do |file|
+    file.puts "line #1"
+    file.puts "Another line"
+  end
+  ```
+  
+  ___
+ ##Reading environment variable 
+ `puts ENV["ENVIRONMENT_VARIABLE"]`
+ 
+ For example:
+`puts ENV[JAVA_HOME] # => /usr/lib/jvm/java-12-oracle`
